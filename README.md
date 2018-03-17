@@ -21,3 +21,4 @@
 ## Device Picture
 
 ![Redmi Note 4](http://i01.appmifile.com/webfile/globalimg/7/537557F3-A4F1-2490-E9D3-138B2A11DBF6.png "Redmi Note 4")
+#这个是Redmi note4x的搞机所需
